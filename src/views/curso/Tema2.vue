@@ -18,7 +18,7 @@
 
     #t_2_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.1] Factores que limitan el acceso a derechos
-
+    h3(data-aos="fade-down") ¿Por qué algunos niños acceden plenamente a sus derechos y otros no? 
     p(data-aos="fade-down") Aunque los derechos de la infancia están reconocidos en numerosas leyes y tratados internacionales, en la práctica muchos menores crecen en condiciones que limitan su desarrollo integral y su acceso a oportunidades fundamentales. Los principales factores que restringen el acceso a derechos son: 
 
     .bg-full-width.bg-color-info.mb-5(data-aos="fade-right")
@@ -91,9 +91,9 @@
                   p.mb-0 Con la comunidad, para transformar los contextos sociales. 
 
 
-    h3(data-aos="fade-down") Desafíos para garantizar la participación
+    h3(data-aos="fade-down") Rol docente frente a estos desafíos
                                            
-    p(data-aos="fade-down") A pesar de los avances, existen obstáculos persistentes que dificultan el ejercicio pleno de este derecho:     
+    p(data-aos="fade-down") La labor de los educadores es esencial en la construcción de entornos protectores. Como agentes de cambio, los docentes pueden influir no solo en la formación de los niños y niñas, sino también en la concientización de las familias y comunidades. 
 
     .titulo-figura(data-aos="fade-right")
       h5 Tabla 2. 
@@ -327,13 +327,13 @@
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
-            h2.mb-4(data-aos="flip-up") Estrategias para fortalecer la educación en derechos en 
+            h2.mb-4(data-aos="flip-up") Estrategias para fortalecer la educación en derechos en la comunidad
             p.mb-4(data-aos="fade-right") Se invita a leer el documento Estrategias para fortalecer la educación en derechos en la comunidad, donde se aborda cómo la educación en derechos, puede convertirse en una experiencia transformadora para la infancia desde el hogar, la escuela y la comunidad. 
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
-                p <strong>Anexo. </strong>la comunidad   
+                p <strong>Anexo. </strong>Estrategias para fortalecer la educación en derechos en la comunidad
           .col-lg-4
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/75.png', alt='') 

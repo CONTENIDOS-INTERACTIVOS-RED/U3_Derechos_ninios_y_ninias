@@ -189,9 +189,9 @@
 
           p.mb-0 La #[b respuesta] se halla en cada gesto, palabra y decisión que contribuya para que la niñez crezca en un entorno donde sus derechos sean respetados, valorados y promovidos. 
 
+    #t_1_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.3] Redes comunitarias y su papel en la promoción del bienestar infantil
 
-    #t_1_2.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.2] La familia como primer espacio de protección y formación en derechos
     .row.mb-5
       .col-lg-8.mb-3.mb-lg-0 
         p(data-aos="fade-down") ¿Cumple la comunidad un rol activo en la protección y promoción de los derechos de niños y niñas? Con frecuencia, esta responsabilidad se asocia exclusivamente a la familia o a las instituciones educativas. Sin embargo, la comunidad, como entorno social en el que la infancia crece, juega y aprende, desempeña un papel clave en la garantía de sus derechos.
@@ -354,8 +354,8 @@
         p(data-aos="fade-down") Cada acción cuenta. Porque al proteger la infancia, se construye una sociedad más justa, solidaria y con oportunidades reales para todos.   
 
 
-    #t_1_3.titulo-segundo(data-aos="flip-up")
-      h2 #[span 1.3] Participación de niñas y niños en la toma de decisiones, dentro del hogar y la comunidad
+    #t_1_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 1.4] Participación de niñas y niños en la toma de decisiones, dentro del hogar y la comunidad
     .row.mb-5
       .col-lg-4.mb-3.mb-lg-0 
         figure
@@ -367,7 +367,7 @@
 
     h3(data-aos="fade-down") La familia como primer espacio de participación        
                                            
-    p(data-aos="fade-down") La participación infantil es un derecho fundamental reconocido por la Convención sobre los Derechos del Niño (1989). No se trata únicamente de permitirles hablar, sino de crear espacios reales de escucha y toma en cuenta de sus opiniones en temas que les afectan directamente. Este ejercicio fomenta su formación como ciudadanos responsables y activos desde la infancia. 
+    p(data-aos="fade-down") La familia es el primer entorno donde se aprende a participar, a expresarse, negociar y asumir responsabilidades. Cuando los niños y las niñas son involucrados en la toma de decisiones, se fortalece su autoestima, se promueve su autonomía y se les enseña a argumentar ideas y respetar otras opiniones.
 
 
     .bg-full-width-3.bg-fondo-1.py-4
@@ -473,7 +473,7 @@
 
     .titulo-figura(data-aos="fade-right")
       h5 Tabla 1. 
-      span Tipos de indeterminaciones en límites
+      span Desafíos para garantizar la participación
 
     .tabla-a-1.mb-5(data-aos="fade-left") 
       table

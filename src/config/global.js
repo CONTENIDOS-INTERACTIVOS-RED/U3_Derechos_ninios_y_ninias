@@ -16,20 +16,36 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Título tema',
+        titulo: 'Rol de la familia y la comunidad en la garantía de derechos',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Perspectivas pedagógicas en la promoción de los derechos de la infancia',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'La familia como primer espacio de protección y formación en derechos',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo:
+              'Redes comunitarias y su papel en la promoción del bienestar infantil',
+            hash: 't_1_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.4',
+            titulo:
+              'Participación de niñas y niños en la toma de decisiones, dentro del hogar y la comunidad',
+            hash: 't_1_4',
           },
         ],
       },
@@ -37,26 +53,22 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Título tema',
+        titulo:
+          'Desafíos y barreras en la protección de derechos en entornos familiares y comunitarios',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Subtítulo tema',
+            titulo: 'Factores que limitan el acceso a derechos',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Subtítulo tema',
+            titulo:
+              'Violencias en el entorno familiar y comunitario: estrategias de prevención y denuncia',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Subtítulo tema',
-            hash: 't_2_3',
           },
         ],
       },
